@@ -2,5 +2,10 @@
   "plugins":[
     "katex"
     "disqus"
-  ]
+  ],
+  "pluginsConfig": {
+        "disqus": {
+            "shortName": "michaelllh"
+        }
+    }
 }
